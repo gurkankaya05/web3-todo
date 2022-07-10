@@ -1,0 +1,12 @@
+.todo_list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;  
+    margin-left:auto;
+    margin-top: auto;
+    margin-right: auto; 
+    border:1px solid lightgray;
+    margin-bottom: auto;
+
+}
